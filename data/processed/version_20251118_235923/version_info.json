@@ -1,0 +1,26 @@
+{
+  "version": "20251118_235923",
+  "feature_type": "relative_coordinates_21points",
+  "feature_dimension": 63,
+  "total_samples": 20775,
+  "train_samples": 14542,
+  "val_samples": 2078,
+  "test_samples": 4155,
+  "classes": [
+    "finger_gun",
+    "fist",
+    "love_you",
+    "ok",
+    "palm",
+    "peace"
+  ],
+  "class_distribution": {
+    "palm": 3978,
+    "love_you": 3656,
+    "fist": 3390,
+    "ok": 3297,
+    "finger_gun": 3249,
+    "peace": 3205
+  },
+  "processing_date": "2025-11-18T23:59:29.594334"
+}

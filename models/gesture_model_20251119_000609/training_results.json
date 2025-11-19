@@ -1,0 +1,66 @@
+{
+  "model_version": "gesture_model_20251119_000609",
+  "training_date": "2025-11-19T00:06:09.065980",
+  "best_parameters": {
+    "n_estimators": 100,
+    "max_depth": 15
+  },
+  "validation_accuracy": 0.9990375360923965,
+  "test_accuracy": 0.9987966305655837,
+  "parameter_search_results": [
+    {
+      "n_estimators": 50,
+      "max_depth": 10,
+      "val_accuracy": 0.9985563041385948
+    },
+    {
+      "n_estimators": 50,
+      "max_depth": 15,
+      "val_accuracy": 0.9985563041385948
+    },
+    {
+      "n_estimators": 50,
+      "max_depth": null,
+      "val_accuracy": 0.9985563041385948
+    },
+    {
+      "n_estimators": 100,
+      "max_depth": 10,
+      "val_accuracy": 0.9985563041385948
+    },
+    {
+      "n_estimators": 100,
+      "max_depth": 15,
+      "val_accuracy": 0.9990375360923965
+    },
+    {
+      "n_estimators": 100,
+      "max_depth": null,
+      "val_accuracy": 0.9990375360923965
+    },
+    {
+      "n_estimators": 150,
+      "max_depth": 10,
+      "val_accuracy": 0.9985563041385948
+    },
+    {
+      "n_estimators": 150,
+      "max_depth": 15,
+      "val_accuracy": 0.9990375360923965
+    },
+    {
+      "n_estimators": 150,
+      "max_depth": null,
+      "val_accuracy": 0.9990375360923965
+    }
+  ],
+  "feature_dimension": 63,
+  "classes": [
+    "finger_gun",
+    "fist",
+    "love_you",
+    "ok",
+    "palm",
+    "peace"
+  ]
+}
