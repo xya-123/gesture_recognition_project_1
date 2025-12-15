@@ -29,7 +29,6 @@ gesture_recognition_project/
 │   ├── 2_model_training.py  
 │   └── 3_real_time_test.py
 ├── models/                     # 训练好的模型
-├── presentations/              # 我个人的汇报ppt记录一下捏
 ├── requirements.txt            # 依赖包列表
 ├── images/                     # PROJECT_JOURNEY.md的插图
 ├── PROJECT_JOURNEY.md          # 个人实践过程中遇到的问题、解决方法和心得总结
